@@ -1,5 +1,6 @@
 .bundle
 *.swp
+Gemfile.lock
 .specjour/performance
 log/*.log
 tmp/**/*
