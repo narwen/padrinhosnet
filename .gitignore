@@ -1,4 +1,8 @@
 .bundle
-db/*.sqlite3
+*.swp
+.specjour/performance
 log/*.log
 tmp/**/*
+tmp/*
+public/stylesheets/*.css
+public/tmp/*
